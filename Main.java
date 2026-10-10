@@ -1,0 +1,1 @@
+/home/pauloroberto/Games/Java/Meu primeiro jogo/core/src/main/java/com/meuprimeirojogo/Main.java
